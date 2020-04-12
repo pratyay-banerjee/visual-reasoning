@@ -1,4 +1,22 @@
-# LXMERT: Learning Cross-Modality Encoder Representations from Transformers
+# Lens of Logic:
+
+We use the core model as the LXMERT model. Source Repo for LXMERT: https://github.com/airsplay/lxmert
+
+## Parser: 
+    Contains code to replicate the Text-based Parser of logical questions
+    
+## Models:
+    "src/tasks" contains code for different VQA models.
+    
+## Pretrained Models:
+    Link for our full-model:
+    
+
+
+
+
+
+## LXMERT: Learning Cross-Modality Encoder Representations from Transformers
 
 ## Introduction
 PyTorch code for the EMNLP 2019 paper ["LXMERT: Learning Cross-Modality Encoder Representations from Transformers"](https://arxiv.org/abs/1908.07490).

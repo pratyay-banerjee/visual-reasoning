@@ -11,6 +11,10 @@ We use the core model as the LXMERT model. Source Repo for LXMERT: https://githu
 ## Pretrained Models:
     Link for our full-model:
     
+## Scoring:
+    bash run/vqa_validate_$scripttype.bash $gpu_num $data_folder  snap/vqa/$trained_model_folder/BEST --test val|test --dump
+   
+    
 
 
 

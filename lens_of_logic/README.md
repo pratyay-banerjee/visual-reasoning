@@ -1,5 +1,6 @@
 # Lens of Logic:
 
+This is the source code for the following paper:  https://arxiv.org/pdf/2002.08325.pdf
 We use the core model as the LXMERT model. Source Repo for LXMERT: https://github.com/airsplay/lxmert
 
 ## Parser: 

@@ -11,7 +11,7 @@ We use the core model as the LXMERT model. Source Repo for LXMERT: https://githu
     "src/tasks" contains code for different VQA models.
     
 ## Pretrained Models:
-Link for our full-model: VQA+Type+Conn+Frechet: ["Google Drive Link"] (https://drive.google.com/file/d/1y2sdTlls3zs8ScuKmnlghwPLKaTaFqWT/view?usp=sharing).
+Link for our full-model: VQA+Type+Conn+Frechet: [Google Drive Link](https://drive.google.com/file/d/1y2sdTlls3zs8ScuKmnlghwPLKaTaFqWT/view?usp=sharing).
     
 ## Scoring:
     bash run/vqa_validate_$scripttype.bash $gpu_num $data_folder  snap/vqa/$trained_model_folder/BEST --test val|test --dump
